@@ -13,7 +13,7 @@ In the screen, you will see one **red cube**, that **represents the current posi
 #### FEATURES ADDED
   1. When the *y position* of your noise is less than *-150*, the fishes will start to appear. There are two possible spawns: **Big          Yellow Fish** and **Little White Fish**.
   2. When the big yellow fish spawns, it will follow the motion of your nose.
-  3. When the little white fish spawns, it will move randomly around the aquarium. If your touch it with your wrists, it will speed up.
+  3. When the little white fish spawns, it will move randomly around the aquarium. If you touch it with your wrists, it will speed up.
 
 #### RESOURCES USED
 PoseNet to OSC adaptation
