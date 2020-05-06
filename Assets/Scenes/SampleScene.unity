@@ -1454,6 +1454,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Background
       objectReference: {fileID: 0}
+    - target: {fileID: 5487103171197481081, guid: fc7abff60f59e534d893b6ea86cc3658,
+        type: 3}
+      propertyPath: scrollSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487103172052573256, guid: fc7abff60f59e534d893b6ea86cc3658,
+        type: 3}
+      propertyPath: scrollSpeed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487103172569019533, guid: fc7abff60f59e534d893b6ea86cc3658,
+        type: 3}
+      propertyPath: scrollSpeed
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7522077733944390169, guid: fc7abff60f59e534d893b6ea86cc3658,
         type: 3}
       propertyPath: m_LocalPosition.x
